@@ -17,7 +17,7 @@ view the html code using browser or any html viewer
 
 <body>
 <h1>Name: Dr.N.S.Gowri Ganesh</h1>
-<h3>Designation: Associate Professor (SG) /h3>
+<h3>Designation: Associate Professor/h3>
 <h5>Dept.:Artificial Intelligence and Data Science</h5>
 </body>
 
@@ -27,7 +27,7 @@ view the html code using browser or any html viewer
 <html>
 <body>
 <h1>Name: Dr.N.S.Gowri Ganesh</h1>
-<h3>Designation: Associate Professor (SG)</h3>
+<h3>Designation: Associate Professor</h3>
 <h5>Dept.:Artificial Intelligence and Data Science</h5>
 </body>
 </html>
