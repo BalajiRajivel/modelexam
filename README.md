@@ -9,17 +9,15 @@ create a simple html page using heading tag
 ### STEP 2
 Add a paragragh tag to the program
 ### STEP 3
-
-### STEP 4
-Execute the program fff
+view the html code using browser or any html viewer
 
 # CODE
 ~~~<!DOCTYPE html>
 <html>
 
 <body>
-<h1>Name: Karthi govindharaju</h1>
-<h3>Designation: Assistant Professor (SG) /h3>
+<h1>Name: Dr.N.S.Gowri Ganesh</h1>
+<h3>Designation: Associate Professor (SG) /h3>
 <h5>Dept.:Artificial Intelligence and Data Science</h5>
 </body>
 
@@ -28,8 +26,8 @@ Execute the program fff
 # OUPUT
 <html>
 <body>
-<h1>Name: Karthi govindharaju</h1>
-<h3>Designation: Assistant Professor (SG)</h3>
+<h1>Name: Dr.N.S.Gowri Ganesh</h1>
+<h3>Designation: Associate Professor (SG)</h3>
 <h5>Dept.:Artificial Intelligence and Data Science</h5>
 </body>
 </html>
